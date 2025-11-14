@@ -1,0 +1,1 @@
+# mcd-kiosk-app
